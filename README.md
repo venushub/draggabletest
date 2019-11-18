@@ -1,3 +1,5 @@
+https://gist.github.com/nothingismagick/642861242050c1d5f3f1cfa7bcd2b3fd#file-caret-js-L31
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
